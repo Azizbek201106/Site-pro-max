@@ -1,0 +1,18 @@
+.assalom {
+    border: 5px solid red;
+    background-color: #000000;
+    color: #ffffff;
+    text-align: center;
+    padding: 5%;
+    margin:0 auto
+}
+.aleykum {
+    background-color: #000000;
+    color:#ffffff;
+    text-align: center;
+    padding: 5%;
+    margin:0 auto
+}
+.aleykum h1{
+    text-decoration: line-through
+}
